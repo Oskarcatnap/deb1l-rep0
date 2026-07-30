@@ -3,6 +3,7 @@ Name: LocalIAPStore
 Version: 1.4-4
 Architecture: iphoneos-arm
 Filename: com.deb1lrepo.oskarcatnapgithub.localiapstore_1.4-4_iphoneos-arm.deb
+MD5sum: c0fdcf2869d44fa70ddc6ca855b2e78c
 Description: Free In-App Purchases for iOS
 Author: oskarcatnap
 Section: Tweaks
