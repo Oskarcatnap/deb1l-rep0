@@ -1,7 +1,130 @@
 <!DOCTYPE html>
-<html>
-    <body>
-        <h1>Hello!</h1>
-        <p>This is oskarcatnap's personal Cydia repo.</p>
-    </body>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>deb1l-repo</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: #f2f2f7;
+            color: #000;
+            margin: 0;
+            padding: 20px 15px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .header {
+            text-align: center;
+            margin-top: 10px;
+            margin-bottom: 25px;
+        }
+
+        .header img {
+            width: 80px;
+            height: 80px;
+            border-radius: 18px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+            margin-bottom: 10px;
+        }
+
+        .header h1 {
+            font-size: 24px;
+            font-weight: 700;
+            margin: 0;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 500px;
+        }
+
+        .section-title {
+            font-size: 13px;
+            text-transform: uppercase;
+            color: #6c6c70;
+            margin-left: 15px;
+            margin-bottom: 6px;
+            font-weight: 500;
+        }
+
+        .package-list {
+            background-color: #ffffff;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+            border: 1px solid #e5e5ea;
+        }
+
+        .package-item {
+            display: flex;
+            align-items: center;
+            padding: 12px 15px;
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .package-icon {
+            width: 40px;
+            height: 40px;
+            background-color: #ff9500;
+            border-radius: 9px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            font-size: 20px;
+            margin-right: 12px;
+            flex-shrink: 0;
+        }
+
+        .package-info {
+            flex-grow: 1;
+        }
+
+        .package-name {
+            font-weight: 600;
+            font-size: 16px;
+            margin-bottom: 2px;
+        }
+
+        .package-desc {
+            font-size: 13px;
+            color: #8e8e93;
+        }
+
+        .package-version {
+            font-size: 14px;
+            color: #8e8e93;
+            font-weight: 500;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <img src="cydiaicon.png" alt="Cydia Icon">
+        <h1>deb1l-repo</h1>
+    </div>
+
+    <div class="container">
+        <div class="section-title">Доступные пакеты</div>
+        <div class="package-list">
+            
+            <div class="package-item">
+                <div class="package-icon">🛠</div>
+                <div class="package-info">
+                    <div class="package-name">LocalIAPStore</div>
+                    <div class="package-desc">Free In-App Purchases for iOS</div>
+                </div>
+                <div class="package-version">1.4-4</div>
+            </div>
+
+        </div>
+    </div>
+
+</body>
 </html>
