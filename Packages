@@ -9,6 +9,7 @@ Description: Free In-App Purchases for iOS
 Author: oskarcatnap
 Section: Tweaks
 Depiction: https://oskarcatnap.github.io/deb1l-rep0/
+Icon: https://oskarcatnap.github.io/deb1l-rep0/deb-pics/localiapstore.png
 
 Package: com.deb1lrepo.oskarcatnapgithub.filza
 Name: Filza File Manager
@@ -24,6 +25,7 @@ Maintainer: TIGI Software
 Author: TIGI Software
 Section: Utilities
 Depiction: https://oskarcatnap.github.io/deb1l-rep0/
+Icon: https://oskarcatnap.github.io/deb1l-rep0/deb-pics/filza.jpg
 
 Package: com.deb1lrepo.oskarcatnapgithub.shit
 Name: nothing
@@ -37,3 +39,4 @@ Maintainer: oskarcatnap
 Author: oskarcatnap
 Section: Tweaks
 Depiction: https://oskarcatnap.github.io/deb1l-rep0/
+Icon: https://oskarcatnap.github.io/deb1l-rep0/deb-pics/nothing.jpg
