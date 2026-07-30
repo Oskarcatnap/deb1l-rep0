@@ -9,3 +9,18 @@ Description: Free In-App Purchases for iOS
 Author: oskarcatnap
 Section: Tweaks
 Depiction: https://oskarcatnap.github.io/deb1l-rep0/
+
+Package: com.deb1lrepo.oskarcatnapgithub.filza
+Name: Filza File Manager
+Version: 4.0.1-2
+Architecture: iphoneos-arm
+Filename: com.deb1lrepo.oskarcatnapgithub.filza_4.0.1-2_iphoneos-arm.deb
+Size: 13914696
+MD5sum: 2bf7695af093f03ca51e722beaee6dd8
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza39
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Maintainer: TIGI Software
+Author: TIGI Software
+Section: Utilities
+Depiction: https://oskarcatnap.github.io/deb1l-rep0/
