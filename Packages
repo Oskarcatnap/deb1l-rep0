@@ -30,8 +30,8 @@ Name: deb1l Snake Game
 Version: 1.0
 Architecture: iphoneos-arm
 Filename: com.deb1lrepo.oskarcatnapgithub.snake_1.0_iphoneos-arm.deb
-Size: 4890
-MD5sum: f21abfe65579f5e1c41cf3611123c440
+Size: 4796
+MD5sum: e7dc40a4e526854dc2c48aca64bb1f55
 Description: Classic Snake mini-game for deb1l-repo!
 Maintainer: oskarcatnap
 Author: oskarcatnap
