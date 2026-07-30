@@ -1,10 +1,8 @@
-Package: com.anon.localiapstore
+Package: com.yourepo.speedmx.localiapstore
 Name: LocalIAPStore
 Version: 1.4-4
 Architecture: iphoneos-arm
 Filename: com.deb1lrepo.oskarcatnapgithub.localiapstore_1.4-4_iphoneos-arm.deb
-Size: 150000
-MD5sum: 1234567890abcdef1234567890abcdef
 Description: Free In-App Purchases for iOS
-Author: Oskarcatnap
+Author: oskarcatnap
 Section: Tweaks
