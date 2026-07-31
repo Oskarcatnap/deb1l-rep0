@@ -54,3 +54,17 @@ Author: 0
 Section: Tweaks
 Depiction: https://oskarcatnap.github.io/deb1l-rep0/
 Homepage: https://oskarcatnap.github.io/deb1l-rep0/
+
+Package: com.deb1lrepo.oskarcatnapgithub.zephyr
+Name: Zephyr
+Version: 1.6.2-1
+Architecture: iphoneos-arm
+Filename: com.deb1lrepo.oskarcatnapgithub.zephyr
+Size: 44378
+MD5sum: 1eafbdea89f79a55aa8496e486d21248
+Description: Awesome swipe multitasking and gestures!
+Maintainer: BigBoss
+Author: chpwn
+Section: Tweaks
+Depiction: https://oskarcatnap.github.io/deb1l-rep0/
+Homepage: https://oskarcatnap.github.io/deb1l-rep0/
