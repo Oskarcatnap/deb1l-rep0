@@ -29,14 +29,14 @@ Icon: https://oskarcatnap.github.io/deb1l-rep0/deb-pics/filza.jpg
 
 Package: com.deb1lrepo.oskarcatnapgithub.shit
 Name: nothing
-Version: 99999999999999.99999999999999
+Version: 1125899906842624
 Architecture: iphoneos-arm
 Filename: com.deb1lrepo.oskarcatnapgithub.snake_1.0_iphoneos-arm.deb
-Size: 99999999999999999999999999999999999999999999
+Size: 1125899906842624
 MD5sum: e7dc40a4e526854dc2c48aca64bb1f55
-Description: nothing
-Maintainer: oskarcatnap
-Author: oskarcatnap
+Description: 1125899906842624
+Maintainer: 1125899906842624
+Author: 1125899906842624
 Section: Tweaks
 Depiction: https://oskarcatnap.github.io/deb1l-rep0/
 Icon: https://oskarcatnap.github.io/deb1l-rep0/deb-pics/nothing.jpg
