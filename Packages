@@ -41,16 +41,16 @@ Section: Tweaks
 Depiction: https://oskarcatnap.github.io/deb1l-rep0/
 Icon: https://oskarcatnap.github.io/deb1l-rep0/deb-pics/nothing.jpg
 
-Package: com.deb1lrepo.oskarcatnapgithub.appsyncunified
+Package: 0
 Name: AppSync Unified
-Version: 78.0
+Version: 0
 Architecture: iphoneos-arm
-Filename: com.deb1lrepo.oskarcatnapgithub.appsyncunified
-Size: 64476
-MD5sum: 895b712b5dbc198dbd117676c1911989
-Description: Enables the ability to install unsigned/fakesigned iOS applications
-Maintainer: Karen/あけみ <karen@akemi.ai>
-Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Filename: fuckup
+Size: -1024
+MD5sum: fuck-up
+Description: REMOVED FROM REPO. IT HAS ANTI PIRACY
+Maintainer: 0
+Author: 0
 Section: Tweaks
 Depiction: https://oskarcatnap.github.io/deb1l-rep0/
 Homepage: https://oskarcatnap.github.io/deb1l-rep0/
